@@ -1,5 +1,7 @@
 # fetch-tianyicui-x
 
+> English: [README.en.md](README.en.md)
+
 从 X（Twitter）帖子抓包 HAR 中，提取帖子下所有回复提到的开源项目链接，并整理为结构化表格。
 
 仓库地址：[Hyperstatics/fetch-tianyicui-x](https://github.com/Hyperstatics/fetch-tianyicui-x.git)
@@ -96,7 +98,8 @@ python3 extract_projects.py
 ## 项目内技能：GitHub 仓库分析
 
 本仓库附带一个项目级技能 [github-repo-analyzer](.codex/skills/github-repo-analyzer/)，
-用于逐个分析开源仓库（方向、功能、架构、实现思路、亮点）并生成中文报告：
+用于逐个分析开源仓库（方向、功能、架构、实现思路、亮点）并生成中文报告；
+英文版见 [github-repo-analyzer-en](.codex/skills/github-repo-analyzer-en/)（生成英文报告）。
 
 - 报告输出到 `reports/<owner>__<repo>.md`（相对项目根目录），并汇总到 `reports/SUMMARY.csv`
 - 抓取缓存放在 `_repo_cache/`（已 gitignore，不入库）
