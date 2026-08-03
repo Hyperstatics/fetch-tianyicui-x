@@ -20,6 +20,7 @@ from urllib.parse import urlparse
 
 HAR_PATH = Path(__file__).parent / "x.com.har"
 OUT_PATH = Path(__file__).parent / "projects.csv"
+OUT_URLS_PATH = Path(__file__).parent / "project_urls.txt"
 
 # Repository-hosting domains we care about. Kept broad so non-GitHub links
 # (GitLab, Hugging Face, Gitee, ...) are captured if they appear.
@@ -106,9 +107,29 @@ def urls_of_tweet(node) -> set[str]:
         expanded = u.get("expanded_url")
         if expanded:
             urls.add(expanded)
-    for match in re.finditer(r"https?://[^\s\"'\\<>)\]]+", legacy.get("full_text", "")):
+
+    # Long-form tweets (note_tweet) store their URL entities separately.
+    note = node.get("note_tweet", {}).get("note_tweet_results", {}).get("result", {})
+    for u in note.get("entity_set", {}).get("urls", []):
+        expanded = u.get("expanded_url") or u.get("url")
+        if expanded:
+            urls.add(expanded)
+
+    text = legacy.get("full_text", "") + "\n" + note.get("text", "")
+    for match in re.finditer(r"https?://[^\s\"'\\<>)\]]+", text):
         urls.add(match.group(0).rstrip(".,;:!?"))
     return urls
+
+
+def bio_urls_of(node) -> set[str]:
+    """Collect repository URLs from the author's profile description."""
+    user = node.get("core", {}).get("user_results", {}).get("result", {})
+    entities = user.get("profile_bio", {}).get("entities", {})
+    bio = entities.get("url", {}).get("urls", []) + entities.get("description", {}).get("urls", [])
+    if not bio:
+        legacy_user = user.get("legacy", {})
+        bio = legacy_user.get("entities", {}).get("description", {}).get("urls", [])
+    return {u.get("expanded_url") or u.get("url") for u in bio if u.get("expanded_url") or u.get("url")}
 
 
 def host_of(url: str) -> str:
@@ -117,6 +138,14 @@ def host_of(url: str) -> str:
 
 def is_repo_url(url: str) -> bool:
     return host_of(url) in REPO_HOSTS
+
+
+def is_project_url(url: str) -> bool:
+    """Repo-host URL that points to a project (not a sponsor/funding page)."""
+    if not is_repo_url(url):
+        return False
+    first = next((s for s in urlparse(url).path.rstrip("/").split("/") if s), "").lower()
+    return first != "sponsors"
 
 
 def classify(url: str) -> str:
@@ -140,12 +169,13 @@ def repo_path(url: str) -> str:
 
 
 def normalize(url: str) -> str:
-    """Lowercase scheme/host, drop trailing slash/.git for dedupe."""
+    """Normalize host to lowercase, force https, drop trailing slash/.git."""
     parsed = urlparse(url)
     path = parsed.path.rstrip("/")
     if path.lower().endswith(".git"):
         path = path[:-4]
-    return f"{parsed.scheme.lower()}://{parsed.netloc.lower()}{path}"
+    scheme = "https" if parsed.netloc.lower() in REPO_HOSTS else parsed.scheme.lower()
+    return f"{scheme}://{parsed.netloc.lower()}{path}"
 
 
 def main() -> None:
@@ -153,6 +183,7 @@ def main() -> None:
     rows = []
     seen_tweets = set()
     seen_urls = set()
+    project_urls = set()
 
     for payload in decoded_responses(har):
         for node in walk_tweets(payload):
@@ -171,6 +202,8 @@ def main() -> None:
                 if key in seen_urls:
                     continue
                 seen_urls.add(key)
+                if classify(url) == "repo":
+                    project_urls.add(normalize(url))
                 rows.append(
                     {
                         "tweet_id": tweet_id,
@@ -183,6 +216,11 @@ def main() -> None:
                         "repo": repo_path(url),
                     }
                 )
+            # Author bio links: representative projects often live in the
+            # profile description. Add them to the standalone URL list only.
+            for url in bio_urls_of(node):
+                if is_project_url(url) and classify(url) == "repo":
+                    project_urls.add(normalize(url))
 
     rows.sort(key=lambda r: (r["created_at"], r["tweet_id"]))
     with open(OUT_PATH, "w", encoding="utf-8-sig", newline="") as f:
@@ -202,11 +240,17 @@ def main() -> None:
         writer.writeheader()
         writer.writerows(rows)
 
+    # Standalone list of deduplicated project URLs (one per line).
+    with open(OUT_URLS_PATH, "w", encoding="utf-8", newline="\n") as f:
+        f.writelines(url + "\n" for url in sorted(project_urls))
+
     print(f"tweets parsed       : {len(seen_tweets)}")
     print(f"rows (tweet x link) : {len(rows)}")
     print(f"unique repo links   : {len({normalize(r['url']) for r in rows})}")
     print(f"unique authors      : {len({r['screen_name'] for r in rows})}")
+    print(f"project urls        : {len(project_urls)}")
     print(f"written -> {OUT_PATH}")
+    print(f"written -> {OUT_URLS_PATH}")
 
 
 if __name__ == "__main__":

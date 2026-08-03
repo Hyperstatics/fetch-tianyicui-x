@@ -61,15 +61,26 @@ x.com.har
 
 文件编码为 UTF-8 with BOM，可直接用 Excel 打开。
 
+### 输出：project_urls.txt
+
+去重后的开源项目仓库地址清单，每行一个链接（统一为 `https`），方便直接复制、
+批量校验或作为名单使用。包含两类来源：
+
+- 推文正文中的仓库链接（含长推文 `note_tweet`）
+- 作者个人简介中附带的仓库链接（帖子里要求的「开源代表作」常见于此）
+
+不含 GitHub 个人主页、`/sponsors/` 赞助页等非项目链接。
+
 ## 统计
 
 当前 HAR（抓取时间 2026-08-03）：
 
 - 解析推文：311 条（含原帖、回复、引用推文）
-- 提供链接的作者：243 位
-- 链接行数：277 行，去重后 276 个唯一链接
-  - 仓库链接：242 个
+- 提供链接的作者：250 位
+- `projects.csv`：295 行（推文 × 链接）
+  - 仓库链接：260 个
   - GitHub 个人主页：35 个
+- `project_urls.txt`：264 个去重后的项目仓库地址
 - 当前数据中仅出现 GitHub 链接；脚本同时支持 GitLab / Hugging Face / Gitee / Codeberg / Bitbucket / SourceForge / GitCode 等域名，重新抓包后可直接复用。
 
 ## 使用
@@ -90,6 +101,7 @@ python3 extract_projects.py
 ├── har-screenshot.png   # 抓取方法示意图
 ├── extract_projects.py  # 提取脚本
 ├── projects.csv         # 提取结果
+├── project_urls.txt     # 去重后的项目仓库地址清单
 ├── LICENSE              # MIT License
 ├── .gitignore           # 排除 HAR 等敏感文件
 └── README.md
