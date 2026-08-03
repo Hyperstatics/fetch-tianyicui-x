@@ -1,0 +1,10 @@
+# Captured HAR files contain session-related headers (e.g. x-csrf-token)
+# and third-party personal data. Never commit them.
+*.har
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
