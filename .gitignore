@@ -11,3 +11,5 @@ __pycache__/
 
 # GitHub repo analyzer: fetched repo cache (metadata + shallow clones)
 _repo_cache/
+
+# NOTE: reports/ is intentionally tracked (public analysis reports).
