@@ -13,3 +13,6 @@ __pycache__/
 _repo_cache/
 
 # NOTE: reports/ is intentionally tracked (public analysis reports).
+
+# Local notes / memoranda (backlog, drafts, etc.) stay out of git.
+docs/
