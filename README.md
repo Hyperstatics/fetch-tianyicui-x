@@ -93,6 +93,15 @@ python3 extract_projects.py
 
 脚本会重新读取 `x.com.har` 并覆盖生成 `projects.csv`。
 
+## 项目内技能：GitHub 仓库分析
+
+本仓库附带一个项目级技能 [github-repo-analyzer](.codex/skills/github-repo-analyzer/)，
+用于逐个分析开源仓库（方向、功能、架构、实现思路、亮点）并生成中文报告：
+
+- 报告输出到 `reports/<owner>__<repo>.md`（相对项目根目录），并汇总到 `reports/SUMMARY.csv`
+- 抓取缓存放在 `_repo_cache/`（已 gitignore，不入库）
+- 使用 `gh` 认证调用 GitHub API；批量时建议小批量 + 间隔，避免触发风控
+
 ## 目录结构
 
 ```text
@@ -102,6 +111,8 @@ python3 extract_projects.py
 ├── extract_projects.py  # 提取脚本
 ├── projects.csv         # 提取结果
 ├── project_urls.txt     # 去重后的项目仓库地址清单
+├── reports/             # 仓库分析报告（项目技能产出）
+├── .codex/skills/       # 项目级技能（github-repo-analyzer）
 ├── LICENSE              # MIT License
 ├── .gitignore           # 排除 HAR 等敏感文件
 └── README.md

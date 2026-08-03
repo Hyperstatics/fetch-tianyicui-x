@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Repo Analyzer"
+  short_description: "Analyze GitHub repos: direction, features, architecture"
+  default_prompt: "Use $github-repo-analyzer to analyze a GitHub repository and produce a structured report."

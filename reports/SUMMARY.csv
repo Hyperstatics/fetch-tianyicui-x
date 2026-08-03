@@ -1,0 +1,2 @@
+repo,url,stars,language,direction,key_features,architecture,highlights,report
+kinpoe-ray/evidence-harness,https://github.com/kinpoe-ray/evidence-harness,0,TypeScript,"Evidence-first 的 TypeScript Agent Harness 内核：有界、策略门控、可验证的智能体执行","生命周期 FSM、工具网关、审批、验证、签名证据包、发布对账","Harness + Lifecycle + CAS RunStore → Context Compiler → ModelRuntime → Tool Gateway → Verifier → EvidencePublisher（稳定接缝可替换适配器）","设计文档质量高；写前日志防重放、租约 fencing、终态不可变；模块化测试全覆盖","reports/kinpoe-ray__evidence-harness.md"
