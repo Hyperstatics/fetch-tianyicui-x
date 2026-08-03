@@ -1,0 +1,6 @@
+# 抓取失败记录（追加式）
+
+## 2026-08-04 全量元数据扫描
+
+- agentdev88/agent-harness-core — HTTP 404（仓库不存在或已删除/改名）
+- zhuangbiaowei/smart_expert — HTTP 404（仓库不存在或已删除/改名）
