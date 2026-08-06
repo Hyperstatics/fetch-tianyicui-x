@@ -105,6 +105,12 @@ python3 extract_projects.py
 - 抓取缓存放在 `_repo_cache/`（已 gitignore，不入库）
 - 使用 `gh` 认证调用 GitHub API；批量时建议小批量 + 间隔，避免触发风控
 
+### 报告浏览入口
+
+- [报告索引（按分类浏览）](reports/INDEX.md)
+- [许可证合规清单](reports/LICENSE-notes.csv)
+- [汇总表（SUMMARY.csv）](reports/SUMMARY.csv)
+
 ## 目录结构
 
 ```text
