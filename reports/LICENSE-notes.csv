@@ -1,0 +1,260 @@
+﻿repo,url,license,license_type,note,report
+13f/aman,https://github.com/13f/aman,AGPL-3.0,强 copyleft,,reports/13f__aman.md
+249469326i-lang/api-monitor,https://github.com/249469326i-lang/api-monitor,MIT,宽松许可,**适合谁**：API 中转/多供应商用户。,reports/249469326i-lang__api-monitor.md
+2921323707/CPA_Orbit,https://github.com/2921323707/CPA_Orbit,MIT,宽松许可,,reports/2921323707__CPA_Orbit.md
+AQBot-Desktop/AQBot,https://github.com/AQBot-Desktop/AQBot,AGPL-3.0,强 copyleft,,reports/AQBot-Desktop__AQBot.md
+Arcadia822/mystra,https://github.com/Arcadia822/mystra,MIT,宽松许可,,reports/Arcadia822__mystra.md
+CJackHwang/SunamAI,https://github.com/CJackHwang/SunamAI,AGPL-3.0,强 copyleft,,reports/CJackHwang__SunamAI.md
+CJackHwang/ds2api,https://github.com/CJackHwang/ds2api,AGPL-3.0,强 copyleft,**AGPL-3.0 许可证**：派生分发需遵守 copyleft,reports/CJackHwang__ds2api.md
+CNife/pi-extensions,https://github.com/CNife/pi-extensions,MIT,宽松许可,,reports/CNife__pi-extensions.md
+CSZHK/goal-conditions,https://github.com/CSZHK/goal-conditions,MIT,宽松许可,,reports/CSZHK__goal-conditions.md
+Cai-aa/CAE-Agent-Hub,https://github.com/Cai-aa/CAE-Agent-Hub,MIT,宽松许可,让 AI 编码客户端（Codex/Cursor/Claude Code/Claude Desktop）与真实 CAE 工具协作：Abaqus/CAE、ANSYS Fluent、Workbench Mechanical、ANSYS Electronics Desktop/HFSS 的 MCP 服务器；Abaqus 有限元技能；Text to CAE 浏览器查看器；示例工作流保持求解器二进制/许可证/私有路径/结果不入库。；敏感内容（许可证/路径/结果）通过约定排除在源码外,reports/Cai-aa__CAE-Agent-Hub.md
+Caxson/swiftagentx,https://github.com/Caxson/swiftagentx,Apache-2.0,宽松许可,,reports/Caxson__swiftagentx.md
+Chasen-Liao/SuperMew,https://github.com/Chasen-Liao/SuperMew,MIT,宽松许可,,reports/Chasen-Liao__SuperMew.md
+Chasen-Liao/pi-agent-desktop,https://github.com/Chasen-Liao/pi-agent-desktop,MIT,宽松许可,,reports/Chasen-Liao__pi-agent-desktop.md
+CiferaTeam/GitIM,https://github.com/CiferaTeam/GitIM,Apache-2.0,宽松许可,,reports/CiferaTeam__GitIM.md
+CisaSettle/bluffking,https://github.com/CisaSettle/bluffking,AGPL-3.0,强 copyleft,,reports/CisaSettle__bluffking.md
+Codegass/Setup-Agent,https://github.com/Codegass/Setup-Agent,MIT,宽松许可,,reports/Codegass__Setup-Agent.md
+CodingThrust/problem-reductions,https://github.com/CodingThrust/problem-reductions,MIT,宽松许可,,reports/CodingThrust__problem-reductions.md
+CreminiAI/skillpack,https://github.com/CreminiAI/skillpack,MIT,宽松许可,,reports/CreminiAI__skillpack.md
+DarkNoah/aime-chat,https://github.com/DarkNoah/aime-chat,MIT,宽松许可,,reports/DarkNoah__aime-chat.md
+DerekYRC/DerekYRC,https://github.com/DerekYRC/DerekYRC,未见 LICENSE 文件（个人主页）,无许可证/待核对,,reports/DerekYRC__DerekYRC.md
+DerekYRC/mini-claude-code,https://github.com/DerekYRC/mini-claude-code,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**：使用/分发前需确认（已列入本地 backlog）,reports/DerekYRC__mini-claude-code.md
+DerekYRC/mini-spring,https://github.com/DerekYRC/mini-spring,Apache-2.0,宽松许可,,reports/DerekYRC__mini-spring.md
+Dimon94/dverity,https://github.com/Dimon94/dverity,MIT,宽松许可,,reports/Dimon94__dverity.md
+Dqz00116/opencode-solo,https://github.com/Dqz00116/opencode-solo,MIT,宽松许可,,reports/Dqz00116__opencode-solo.md
+Drinkwater0922/workhorse-ai,https://github.com/Drinkwater0922/workhorse-ai,AGPL-3.0,强 copyleft,,reports/Drinkwater0922__workhorse-ai.md
+Egonex-AI/Understand-Anything,https://github.com/Egonex-AI/Understand-Anything,MIT,宽松许可,,reports/Egonex-AI__Understand-Anything.md
+Ephemeral-AI-Lab/ephemeral-sandbox,https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox,MIT,宽松许可,,reports/Ephemeral-AI-Lab__ephemeral-sandbox.md
+EverMind-AI/Raven,https://github.com/EverMind-AI/Raven,Apache-2.0,宽松许可,LICENSES/ NOTICES.md  许可证与声明；工程规范（benchmarks/CI/pre-commit、许可证清单）严谨,reports/EverMind-AI__Raven.md
+FoxRick/Collie,https://github.com/FoxRick/Collie,MIT,宽松许可,,reports/FoxRick__Collie.md
+GitHubxsy/nanoAgent,https://github.com/GitHubxsy/nanoAgent,MIT,宽松许可,,reports/GitHubxsy__nanoAgent.md
+GodOnlyKn0w/mnema,https://github.com/GodOnlyKn0w/mnema,Apache-2.0,宽松许可,,reports/GodOnlyKn0w__mnema.md
+IT-Bill/what-the-health,https://github.com/IT-Bill/what-the-health,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/IT-Bill__what-the-health.md
+JackWPP/fox-say,https://github.com/JackWPP/fox-say,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/JackWPP__fox-say.md
+JameryW/XhsGrowthAgent,https://github.com/JameryW/XhsGrowthAgent,MIT,宽松许可,,reports/JameryW__XhsGrowthAgent.md
+KunAgent/Kun,https://github.com/KunAgent/Kun,PolyForm Noncommercial 1.0.0（非商用）,非商用,"**快速判断**：如果你想要""一个工作台串起所有 AI 工作流""且用途非商业，它很适合；商业用途需先谈许可。；**PolyForm Noncommercial 许可证**：非商用授权，商用/集成需联系版权方",reports/KunAgent__Kun.md
+LING71671/open-reverselab,https://github.com/LING71671/open-reverselab,GPL-3.0,强 copyleft,,reports/LING71671__open-reverselab.md
+La-fe/multi-agent-factory,https://github.com/La-fe/multi-agent-factory,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/La-fe__multi-agent-factory.md
+La-fe/vercel-claude-code,https://github.com/La-fe/vercel-claude-code,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/La-fe__vercel-claude-code.md
+Lancetwang/friday,https://github.com/Lancetwang/friday,MIT,宽松许可,,reports/Lancetwang__friday.md
+MaaXYZ/MaaFramework,https://github.com/MaaXYZ/MaaFramework,LGPL-3.0,弱 copyleft,,reports/MaaXYZ__MaaFramework.md
+Mashiro2000/We0Code,https://github.com/Mashiro2000/We0Code,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/Mashiro2000__We0Code.md
+MoFox-Studio/Neo-MoFox,https://github.com/MoFox-Studio/Neo-MoFox,AGPL-3.0,强 copyleft,,reports/MoFox-Studio__Neo-MoFox.md
+NanmiCoder/cc-haha,https://github.com/NanmiCoder/cc-haha,MIT,宽松许可,,reports/NanmiCoder__cc-haha.md
+Octo-o-o-o/deepseek-harness-applicants,https://github.com/Octo-o-o-o/deepseek-harness-applicants,MIT,宽松许可,,reports/Octo-o-o-o__deepseek-harness-applicants.md
+Onion-L/carrent,https://github.com/Onion-L/carrent,MIT,宽松许可,,reports/Onion-L__carrent.md
+OpenMinis/OpenMinis,https://github.com/OpenMinis/OpenMinis,GPL-3.0,强 copyleft,docs/ BUILDING.md / THIRD_PARTY_LICENSES.md,reports/OpenMinis__OpenMinis.md
+Orkas-AI/Orkas,https://github.com/Orkas-AI/Orkas,MIT,宽松许可,,reports/Orkas-AI__Orkas.md
+Orkas-AI/Orkas-VideoStudio,https://github.com/Orkas-AI/Orkas-VideoStudio,MIT,宽松许可,,reports/Orkas-AI__Orkas-VideoStudio.md
+PaRr0tBoY/Pola-Agent,https://github.com/PaRr0tBoY/Pola-Agent,MIT,宽松许可,,reports/PaRr0tBoY__Pola-Agent.md
+Pretend-to/mio-chat-backend,https://github.com/Pretend-to/mio-chat-backend,README 标 MIT（API-only 未核对文件）,无许可证/待核对,**许可证未核对**（README 标 MIT，未克隆确认；列入本地 backlog）,reports/Pretend-to__mio-chat-backend.md
+PzMNo1/PzMCiphertool,https://github.com/PzMNo1/PzMCiphertool,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/PzMNo1__PzMCiphertool.md
+QmiAI/Qmedia,https://github.com/QmiAI/Qmedia,MIT,宽松许可,,reports/QmiAI__Qmedia.md
+QuantumBFS/Yao.jl,https://github.com/QuantumBFS/Yao.jl,Apache-2.0（LICENSE.md 确认）,宽松许可,基于 README、lib/src 结构与 LICENSE.md；未运行 Julia 代码。,reports/QuantumBFS__Yao.jl.md
+QuantumBFS/quantum.harness,https://github.com/QuantumBFS/quantum.harness,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/QuantumBFS__quantum.harness.md
+QwenLM/qwen-code,https://github.com/QwenLM/qwen-code,Apache-2.0,宽松许可,,reports/QwenLM__qwen-code.md
+RongleCat/grok-app,https://github.com/RongleCat/grok-app,MIT,宽松许可,,reports/RongleCat__grok-app.md
+SII-Holos/synergy,https://github.com/SII-Holos/synergy,MIT,宽松许可,,reports/SII-Holos__synergy.md
+SUNRNEHUI/agent-reliability-harness,https://github.com/SUNRNEHUI/agent-reliability-harness,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/SUNRNEHUI__agent-reliability-harness.md
+Sakura520222/Sakura-AI-Reviewer,https://github.com/Sakura520222/Sakura-AI-Reviewer,AGPL-3.0,强 copyleft,,reports/Sakura520222__Sakura-AI-Reviewer.md
+Setsuna-Agent/setsuna-desktop,https://github.com/Setsuna-Agent/setsuna-desktop,MIT,宽松许可,,reports/Setsuna-Agent__setsuna-desktop.md
+ShenSeanChen/waku-agent,https://github.com/ShenSeanChen/waku-agent,MIT,宽松许可,,reports/ShenSeanChen__waku-agent.md
+Sma1lboy/kobe,https://github.com/Sma1lboy/kobe,MIT,宽松许可,,reports/Sma1lboy__kobe.md
+TabbyML/pochi,https://github.com/TabbyML/pochi,Apache-2.0,宽松许可,,reports/TabbyML__pochi.md
+Tainyusz/Voice-Phone-Agent,https://github.com/Tainyusz/Voice-Phone-Agent,Apache-2.0,宽松许可,,reports/Tainyusz__Voice-Phone-Agent.md
+Team-Commonly/commonly,https://github.com/Team-Commonly/commonly,Apache-2.0（LICENSE 文件确认）,宽松许可,基于 README、backend/frontend 结构与 LICENSE；未运行工作区。,reports/Team-Commonly__commonly.md
+Techdoll00/aicompass,https://github.com/Techdoll00/aicompass,Apache-2.0,宽松许可,,reports/Techdoll00__aicompass.md
+ThinkInAIXYZ/deepchat,https://github.com/ThinkInAIXYZ/deepchat,Apache-2.0,宽松许可,,reports/ThinkInAIXYZ__deepchat.md
+TuanVibeCode/longctx,https://github.com/TuanVibeCode/longctx,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/TuanVibeCode__longctx.md
+UniversePeak/Supervisor.skill,https://github.com/UniversePeak/Supervisor.skill,MIT,宽松许可,,reports/UniversePeak__Supervisor.skill.md
+VIONWILLIAMS/agent-os-harness,https://github.com/VIONWILLIAMS/agent-os-harness,MIT,宽松许可,,reports/VIONWILLIAMS__agent-os-harness.md
+Viking602/azem,https://github.com/Viking602/azem,MIT,宽松许可,,reports/Viking602__azem.md
+Vizards/deepseek-v4-for-copilot,https://github.com/Vizards/deepseek-v4-for-copilot,MIT,宽松许可,,reports/Vizards__deepseek-v4-for-copilot.md
+Winsaney/brainstorming,https://github.com/Winsaney/brainstorming,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/Winsaney__brainstorming.md
+XaoticLabs/grimoire,https://github.com/XaoticLabs/grimoire,MIT OR Apache-2.0,宽松许可,MIT/Apache-2.0 双许可,reports/XaoticLabs__grimoire.md
+XiaoMi/xiaomi-miloco,https://github.com/XiaoMi/xiaomi-miloco,小米自定义（**仅限非商用**）,非商用,"**快速判断**：如果你有米家生态且想体验""主动管家""，它很有代表性；**注意非商用许可**，做产品化要联系小米。；**自定义非商用许可证**：约束严格，禁止用于开发应用/Web 服务（已列入 backlog）",reports/XiaoMi__xiaomi-miloco.md
+XiaoWeiKIN/RepoFoundryAI,https://github.com/XiaoWeiKIN/RepoFoundryAI,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/XiaoWeiKIN__RepoFoundryAI.md
+XiaomingX/mimofan,https://github.com/XiaomingX/mimofan,MIT,宽松许可,,reports/XiaomingX__mimofan.md
+Xnmk029/ETharness,https://github.com/Xnmk029/ETharness,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/Xnmk029__ETharness.md
+Xnmk029/Xnmk_Prompt_Library_1.0,https://github.com/Xnmk029/Xnmk_Prompt_Library_1.0,MIT,宽松许可,,reports/Xnmk029__Xnmk_Prompt_Library_1.0.md
+XvHaoR/fittracker,https://github.com/XvHaoR/fittracker,MIT,宽松许可,,reports/XvHaoR__fittracker.md
+YangKGcsdms/antlegion-platform,https://github.com/YangKGcsdms/antlegion-platform,双许可证（LICENSE 文件，README 标 MIT）,自定义/分层,**双许可证**需确认（列入本地 backlog）；基于 README、antlegion-bus/ 与 LICENSE；未运行。,reports/YangKGcsdms__antlegion-platform.md
+YaoApp/yao,https://github.com/YaoApp/yao,修改版 Apache-2.0（商用需商业许可）,自定义/分层,**许可证注意**：修改版 Apache-2.0，商用需从厂商获取商业许可；基于 README、目录结构与 LICENSE 文件；未运行二进制，未细读 engine 源码。,reports/YaoApp__yao.md
+Yorha9e/oh-my-kimi-code,https://github.com/Yorha9e/oh-my-kimi-code,MIT,宽松许可,,reports/Yorha9e__oh-my-kimi-code.md
+YoungCan-Wang/WyckoffTradingAgent,https://github.com/YoungCan-Wang/WyckoffTradingAgent,AGPL-3.0,强 copyleft,,reports/YoungCan-Wang__WyckoffTradingAgent.md
+YuYingRay/LaoYu-Professional-Screenwriter,https://github.com/YuYingRay/LaoYu-Professional-Screenwriter,CC BY 4.0,宽松（CC）,,reports/YuYingRay__LaoYu-Professional-Screenwriter.md
+ZSeven-W/openpencil,https://github.com/ZSeven-W/openpencil,MIT,宽松许可,,reports/ZSeven-W__openpencil.md
+ZacharyZhang-NY/Kigi-CLI,https://github.com/ZacharyZhang-NY/Kigi-CLI,Apache-2.0,宽松许可,,reports/ZacharyZhang-NY__Kigi-CLI.md
+Zane456/PCB-Agent-Teams,https://github.com/Zane456/PCB-Agent-Teams,PolyForm Noncommercial 1.0.0（**非商用**）,非商用,"**快速判断**：如果你做 PCB 设计且想要""AI 走完整流程""，它很有价值；**注意非商用许可**。；**PolyForm 非商用许可**（列入本地 backlog）",reports/Zane456__PCB-Agent-Teams.md
+ZhenHuangLab/collaborating-with-claude-code,https://github.com/ZhenHuangLab/collaborating-with-claude-code,MIT,宽松许可,,reports/ZhenHuangLab__collaborating-with-claude-code.md
+ZhenHuangLab/collaborating-with-gemini-cli,https://github.com/ZhenHuangLab/collaborating-with-gemini-cli,MIT,宽松许可,,reports/ZhenHuangLab__collaborating-with-gemini-cli.md
+ZhenHuangLab/pi-xai-search,https://github.com/ZhenHuangLab/pi-xai-search,MIT,宽松许可,,reports/ZhenHuangLab__pi-xai-search.md
+Zleap-AI/Zleap-Agent,https://github.com/Zleap-AI/Zleap-Agent,Apache-2.0（LICENSE 确认）,宽松许可,,reports/Zleap-AI__Zleap-Agent.md
+a2eprotocol/python-sdk,https://github.com/a2eprotocol/python-sdk,MIT,宽松许可,,reports/a2eprotocol__python-sdk.md
+abcwyc/pi-agent-desktop,https://github.com/abcwyc/pi-agent-desktop,MIT,宽松许可,,reports/abcwyc__pi-agent-desktop.md
+addsumtech/slides_maker,https://github.com/addsumtech/slides_maker,MIT,宽松许可,,reports/addsumtech__slides_maker.md
+agent-team-foundation/first-tree,https://github.com/agent-team-foundation/first-tree,Apache-2.0,宽松许可,,reports/agent-team-foundation__first-tree.md
+ai2humanagent/ai2humanwork,https://github.com/ai2humanagent/ai2humanwork,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/ai2humanagent__ai2humanwork.md
+ale-160/web-text,https://github.com/ale-160/web-text,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/ale-160__web-text.md
+alexalexalex222/Loop-Factory-mcp-public,https://github.com/alexalexalex222/Loop-Factory-mcp-public,MIT,宽松许可,,reports/alexalexalex222__Loop-Factory-mcp-public.md
+anymouschina/TapCanvas,https://github.com/anymouschina/TapCanvas,MIT,宽松许可,,reports/anymouschina__TapCanvas.md
+arcabotai/clawfix,https://github.com/arcabotai/clawfix,MIT,宽松许可,,reports/arcabotai__clawfix.md
+arcana-core/arcana,https://github.com/arcana-core/arcana,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/arcana-core__arcana.md
+basionwang-bot/HermesPet,https://github.com/basionwang-bot/HermesPet,无许可证文件（谨慎使用）,无许可证/待核对,"**快速判断**：如果你想要""可爱 + 可观察""的 AI 桌宠控制面，它很有特色；**注意无许可证，商用/分发需谨慎**。；**无 LICENSE 文件**：默认保留所有权利，使用/分发需联系作者确认（已列入本地 backlog 许可证盘点）",reports/basionwang-bot__HermesPet.md
+bex-co/bex,https://github.com/bex-co/bex,Apache-2.0,宽松许可,,reports/bex-co__bex.md
+binaricat/Netcatty,https://github.com/binaricat/Netcatty,GPL-3.0,强 copyleft,,reports/binaricat__Netcatty.md
+btspoony/mstar-harness,https://github.com/btspoony/mstar-harness,MIT,宽松许可,,reports/btspoony__mstar-harness.md
+byewind1/openbrep,https://github.com/byewind1/openbrep,MIT,宽松许可,,reports/byewind1__openbrep.md
+bytedance/deer-flow,https://github.com/bytedance/deer-flow,MIT,宽松许可,,reports/bytedance__deer-flow.md
+caiuswang/regin,https://github.com/caiuswang/regin,MIT,宽松许可,,reports/caiuswang__regin.md
+chainreactors/aiscan,https://github.com/chainreactors/aiscan,AGPL-3.0,强 copyleft,,reports/chainreactors__aiscan.md
+chatchat-space/Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat,Apache-2.0,宽松许可,,reports/chatchat-space__Langchain-Chatchat.md
+chukong-creator/agent-os-skill,https://github.com/chukong-creator/agent-os-skill,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/chukong-creator__agent-os-skill.md
+cicialgo/rockycode,https://github.com/cicialgo/rockycode,MIT,宽松许可,,reports/cicialgo__rockycode.md
+citarreikee/visible_manus,https://github.com/citarreikee/visible_manus,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（已列入本地 backlog）,reports/citarreikee__visible_manus.md
+clacky-ai/openclacky,https://github.com/clacky-ai/openclacky,MIT,宽松许可,,reports/clacky-ai__openclacky.md
+cloudwego/dynamicgo,https://github.com/cloudwego/dynamicgo,Apache-2.0,宽松许可,,reports/cloudwego__dynamicgo.md
+clubmatto/vetrina,https://github.com/clubmatto/vetrina,MIT,宽松许可,,reports/clubmatto__vetrina.md
+compio-rs/compio,https://github.com/compio-rs/compio,MIT,宽松许可,模块化完整，MIT 宽松许可,reports/compio-rs__compio.md
+cosmtrek/jeju,https://github.com/cosmtrek/jeju,MIT,宽松许可,,reports/cosmtrek__jeju.md
+crafter-station/petdex,https://github.com/crafter-station/petdex,MIT,宽松许可,,reports/crafter-station__petdex.md
+crisxuan/bestJavaer,https://github.com/crisxuan/bestJavaer,CC-BY-SA-4.0,待核对,,reports/crisxuan__bestJavaer.md
+cubeplexai/cubepi,https://github.com/cubeplexai/cubepi,MIT,宽松许可,,reports/cubeplexai__cubepi.md
+cubeplexai/cubeplex,https://github.com/cubeplexai/cubeplex,Apache-2.0,宽松许可,,reports/cubeplexai__cubeplex.md
+dazuiba/handoff,https://github.com/dazuiba/handoff,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/dazuiba__handoff.md
+dothinkerlab/AgentMeter,https://github.com/dothinkerlab/AgentMeter,MIT,宽松许可,,reports/dothinkerlab__AgentMeter.md
+drakeet/MultiType,https://github.com/drakeet/MultiType,Apache-2.0,宽松许可,,reports/drakeet__MultiType.md
+esengine/DeepSeek-Reasonix,https://github.com/esengine/DeepSeek-Reasonix,MIT,宽松许可,,reports/esengine__DeepSeek-Reasonix.md
+eunomia-bpf/agentsight,https://github.com/eunomia-bpf/agentsight,MIT,宽松许可,,reports/eunomia-bpf__agentsight.md
+felixzhang-glitch/codeClaw,https://github.com/felixzhang-glitch/codeClaw,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/felixzhang-glitch__codeClaw.md
+fffonion/yahu,https://github.com/fffonion/yahu,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/fffonion__yahu.md
+firstintent/ccteam,https://github.com/firstintent/ccteam,MIT,宽松许可,,reports/firstintent__ccteam.md
+flashrt-project/FlashRT,https://github.com/flashrt-project/FlashRT,Apache-2.0,宽松许可,,reports/flashrt-project__FlashRT.md
+geminixiang/mikan,https://github.com/geminixiang/mikan,MIT,宽松许可,,reports/geminixiang__mikan.md
+gobing-ai/spur,https://github.com/gobing-ai/spur,Apache-2.0,宽松许可,,reports/gobing-ai__spur.md
+gupsammy/Claudest,https://github.com/gupsammy/Claudest,README 标注 MIT（仓库未见 LICENSE 文件，需确认）,无许可证/待核对,**未见 LICENSE 文件**：使用/分发前需确认授权,reports/gupsammy__Claudest.md
+hAcKlyc/MyAgents,https://github.com/hAcKlyc/MyAgents,AGPL-3.0,强 copyleft,,reports/hAcKlyc__MyAgents.md
+hahhforest/linka,https://github.com/hahhforest/linka,MIT,宽松许可,,reports/hahhforest__linka.md
+hangwin/mcp-chrome,https://github.com/hangwin/mcp-chrome,MIT,宽松许可,,reports/hangwin__mcp-chrome.md
+hareonna-hina/XHAUS_FINAL,https://github.com/hareonna-hina/XHAUS_FINAL,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/hareonna-hina__XHAUS_FINAL.md
+haseeb-heaven/open-agent,https://github.com/haseeb-heaven/open-agent,Apache-2.0,宽松许可,,reports/haseeb-heaven__open-agent.md
+hawkingrei/agenthub,https://github.com/hawkingrei/agenthub,Apache-2.0,宽松许可,,reports/hawkingrei__agenthub.md
+heimoshuiyu/opencode,https://github.com/heimoshuiyu/opencode,MIT,宽松许可,,reports/heimoshuiyu__opencode.md
+helixnow/deep-student,https://github.com/helixnow/deep-student,AGPL-3.0,强 copyleft,,reports/helixnow__deep-student.md
+however-yir/knowledgeops-agent,https://github.com/however-yir/knowledgeops-agent,MIT,宽松许可,,reports/however-yir__knowledgeops-agent.md
+huangruiteng/loopx,https://github.com/huangruiteng/loopx,MIT,宽松许可,,reports/huangruiteng__loopx.md
+hydelovegood/paperweave,https://github.com/hydelovegood/paperweave,MIT,宽松许可,,reports/hydelovegood__paperweave.md
+iancjy-creator/antigravity-agent-rigor-guard,https://github.com/iancjy-creator/antigravity-agent-rigor-guard,README 标 MIT（仓库未见 LICENSE 文件，需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/iancjy-creator__antigravity-agent-rigor-guard.md
+its-ahoh/codey,https://github.com/its-ahoh/codey,MIT,宽松许可,,reports/its-ahoh__codey.md
+kinpoe-ray/evidence-harness,https://github.com/kinpoe-ray/evidence-harness,MIT,宽松许可,,reports/kinpoe-ray__evidence-harness.md
+kowyo/mini-agent,https://github.com/kowyo/mini-agent,Apache-2.0,宽松许可,,reports/kowyo__mini-agent.md
+kuangre123/codex-switch,https://github.com/kuangre123/codex-switch,MIT,宽松许可,,reports/kuangre123__codex-switch.md
+kubeovn/kube-ovn,https://github.com/kubeovn/kube-ovn,Apache-2.0,宽松许可,,reports/kubeovn__kube-ovn.md
+ladydd/token-overload,https://github.com/ladydd/token-overload,MIT,宽松许可,,reports/ladydd__token-overload.md
+ldclabs/anda-bot,https://github.com/ldclabs/anda-bot,Apache-2.0,宽松许可,,reports/ldclabs__anda-bot.md
+liaocaoxuezhe/ChromeX,https://github.com/liaocaoxuezhe/ChromeX,MIT,宽松许可,,reports/liaocaoxuezhe__ChromeX.md
+liaocaoxuezhe/FigmaX,https://github.com/liaocaoxuezhe/FigmaX,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/liaocaoxuezhe__FigmaX.md
+libra-tools/libra,https://github.com/libra-tools/libra,MIT,宽松许可,,reports/libra-tools__libra.md
+liliMozi/openhanako,https://github.com/liliMozi/openhanako,Apache-2.0,宽松许可,,reports/liliMozi__openhanako.md
+linearuncle/xharness,https://github.com/linearuncle/xharness,MIT,宽松许可,,reports/linearuncle__xharness.md
+linkerdog/rara,https://github.com/linkerdog/rara,Apache-2.0,宽松许可,,reports/linkerdog__rara.md
+longyijdos/kana,https://github.com/longyijdos/kana,MIT,宽松许可,,reports/longyijdos__kana.md
+lwmxiaobei/xbcode,https://github.com/lwmxiaobei/xbcode,MIT,宽松许可,,reports/lwmxiaobei__xbcode.md
+lznauy/NekoCode,https://github.com/lznauy/NekoCode,README 标 MIT（仓库未见 LICENSE 文件，需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/lznauy__NekoCode.md
+mainline-org/mainline,https://github.com/mainline-org/mainline,分层（Apache-2.0 / CC-BY-4.0 / Commercial）,自定义/分层,分层许可明确开源/商用边界；分层许可证使用需仔细确认,reports/mainline-org__mainline.md
+majiayu000/harness,https://github.com/majiayu000/harness,MIT,宽松许可,,reports/majiayu000__harness.md
+maka-agent/maka-agent,https://github.com/maka-agent/maka-agent,Apache-2.0,宽松许可,,reports/maka-agent__maka-agent.md
+makecindy/cindy,https://github.com/makecindy/cindy,Apache-2.0,宽松许可,,reports/makecindy__cindy.md
+mco-org/mco,https://github.com/mco-org/mco,MIT,宽松许可,,reports/mco-org__mco.md
+mco-org/squad,https://github.com/mco-org/squad,MIT,宽松许可,,reports/mco-org__squad.md
+mileson/openprd,https://github.com/mileson/openprd,MIT,宽松许可,,reports/mileson__openprd.md
+minghinmatthewlam/openbench,https://github.com/minghinmatthewlam/openbench,MIT,宽松许可,,reports/minghinmatthewlam__openbench.md
+minmengxhw-cpu/mingmeng-history-research,https://github.com/minmengxhw-cpu/mingmeng-history-research,MIT（代码）+ CC BY-NC 4.0（数据/译文）,非商用（CC）,MIT + CC BY-NC 分层许可；**数据/译文非商用**（列入本地 backlog）,reports/minmengxhw-cpu__mingmeng-history-research.md
+mkurman/zorai,https://github.com/mkurman/zorai,MIT,宽松许可,,reports/mkurman__zorai.md
+nextlevelbuilder/goclaw,https://github.com/nextlevelbuilder/goclaw,CC BY-NC 4.0（**非商用**）,非商用,"**快速判断**：如果你要""一个二进制跑起多租户 AI 网关""，它很合适；**注意许可证限制非商用，商用需授权**。；**CC BY-NC 4.0**：非商用许可证，商用/托管需联系版权方（已列入 backlog 许可证盘点）",reports/nextlevelbuilder__goclaw.md
+nexu-io/open-design,https://github.com/nexu-io/open-design,Apache-2.0,宽松许可,,reports/nexu-io__open-design.md
+nolotus/nolo-cli,https://github.com/nolotus/nolo-cli,MIT,宽松许可,,reports/nolotus__nolo-cli.md
+noumena-labs/Sipp,https://github.com/noumena-labs/Sipp,Apache-2.0,宽松许可,,reports/noumena-labs__Sipp.md
+oines/astral-code,https://github.com/oines/astral-code,Apache-2.0,宽松许可,,reports/oines__astral-code.md
+oliverzhu823/vizruna,https://github.com/oliverzhu823/vizruna,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/oliverzhu823__vizruna.md
+onesmash/slm-as-harness,https://github.com/onesmash/slm-as-harness,MIT（LICENSE 确认）,宽松许可,基于 skills/docs 结构与 LICENSE；README 不可用。,reports/onesmash__slm-as-harness.md
+oomol-lab/open-connector,https://github.com/oomol-lab/open-connector,Apache-2.0,宽松许可,,reports/oomol-lab__open-connector.md
+op7418/CodePilot,https://github.com/op7418/CodePilot,BSL-1.1（商业受限）,BSL（商用受限）,**BSL-1.1 许可证**：生产/商用集成需评估条款（并非宽松 MIT/Apache）,reports/op7418__CodePilot.md
+open-multi-agent/open-multi-agent,https://github.com/open-multi-agent/open-multi-agent,MIT,宽松许可,,reports/open-multi-agent__open-multi-agent.md
+openmodu/modu,https://github.com/openmodu/modu,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/openmodu__modu.md
+pakco77/mishu.skill,https://github.com/pakco77/mishu.skill,MIT,宽松许可,,reports/pakco77__mishu.skill.md
+peisp/catdb,https://github.com/peisp/catdb,Apache-2.0（LICENSE 确认）,宽松许可,,reports/peisp__catdb.md
+percena/memfuse,https://github.com/percena/memfuse,MIT,宽松许可,,reports/percena__memfuse.md
+physiclaw/PhysiClaw,https://github.com/physiclaw/PhysiClaw,MIT,宽松许可,,reports/physiclaw__PhysiClaw.md
+platonai/Browser4,https://github.com/platonai/Browser4,Apache-2.0,宽松许可,,reports/platonai__Browser4.md
+praxstack/agent-org,https://github.com/praxstack/agent-org,MIT,宽松许可,,reports/praxstack__agent-org.md
+proma-ai/Proma,https://github.com/proma-ai/Proma,AGPL-3.0,强 copyleft,,reports/proma-ai__Proma.md
+pumblus/okf-harness,https://github.com/pumblus/okf-harness,Apache-2.0,宽松许可,,reports/pumblus__okf-harness.md
+readest/readest,https://github.com/readest/readest,AGPL-3.0,强 copyleft,AGPL-3.0 对商用集成有传染性要求,reports/readest__readest.md
+rocky2431/ultra-builder-pro,https://github.com/rocky2431/ultra-builder-pro,MIT,宽松许可,,reports/rocky2431__ultra-builder-pro.md
+runesleo/claude-code-workflow,https://github.com/runesleo/claude-code-workflow,MIT,宽松许可,,reports/runesleo__claude-code-workflow.md
+rust-infra/tact,https://github.com/rust-infra/tact,README 标 MIT（仓库未见 LICENSE 文件，需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/rust-infra__tact.md
+rustscript-lang/rustscript,https://github.com/rustscript-lang/rustscript,Apache-2.0,宽松许可,,reports/rustscript-lang__rustscript.md
+samelabs/Kungfu,https://github.com/samelabs/Kungfu,MIT,宽松许可,,reports/samelabs__Kungfu.md
+sdougbrown/avenor,https://github.com/sdougbrown/avenor,MIT,宽松许可,,reports/sdougbrown__avenor.md
+shanyuzhe/research-fleet,https://github.com/shanyuzhe/research-fleet,MIT,宽松许可,,reports/shanyuzhe__research-fleet.md
+shi275773124/Falsify,https://github.com/shi275773124/Falsify,MIT,宽松许可,,reports/shi275773124__Falsify.md
+shuwenhe/neurx,https://github.com/shuwenhe/neurx,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/shuwenhe__neurx.md
+shuwenhe/s,https://github.com/shuwenhe/s,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/shuwenhe__s.md
+sigcli/sigcli,https://github.com/sigcli/sigcli,MIT,宽松许可,,reports/sigcli__sigcli.md
+simple-agent-lab/simple-long-horizon-agent,https://github.com/simple-agent-lab/simple-long-horizon-agent,Apache-2.0,宽松许可,,reports/simple-agent-lab__simple-long-horizon-agent.md
+solo-agent/solo,https://github.com/solo-agent/solo,MIT,宽松许可,,reports/solo-agent__solo.md
+stonega/cusco,https://github.com/stonega/cusco,GPL-3.0,强 copyleft,,reports/stonega__cusco.md
+synvo-ai/local-cocoa,https://github.com/synvo-ai/local-cocoa,MIT,宽松许可,,reports/synvo-ai__local-cocoa.md
+synvo-ai/mobile-cocoa,https://github.com/synvo-ai/mobile-cocoa,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/synvo-ai__mobile-cocoa.md
+talesofai/cohub,https://github.com/talesofai/cohub,Apache-2.0,宽松许可,,reports/talesofai__cohub.md
+tao12345666333/amcp,https://github.com/tao12345666333/amcp,Apache-2.0,宽松许可,,reports/tao12345666333__amcp.md
+taxueseek/kimix,https://github.com/taxueseek/kimix,Apache-2.0,宽松许可,,reports/taxueseek__kimix.md
+tddworks/baguette,https://github.com/tddworks/baguette,Apache-2.0,宽松许可,,reports/tddworks__baguette.md
+termlnk/termlnk,https://github.com/termlnk/termlnk,PolyForm Noncommercial 1.0.0（**非商用**）,非商用,"**快速判断**：如果你想要""智能终端""体验，它值得试；**注意非商用许可**。；**PolyForm 非商用**（列入本地 backlog）",reports/termlnk__termlnk.md
+terryso/open-agent-sdk-swift,https://github.com/terryso/open-agent-sdk-swift,MIT,宽松许可,,reports/terryso__open-agent-sdk-swift.md
+thinkany-ai/dscode,https://github.com/thinkany-ai/dscode,MIT,宽松许可,,reports/thinkany-ai__dscode.md
+tommy0103/obelisk,https://github.com/tommy0103/obelisk,AGPL-3.0,强 copyleft,,reports/tommy0103__obelisk.md
+trynhexagon/hermes-console,https://github.com/trynhexagon/hermes-console,Apache-2.0,宽松许可,,reports/trynhexagon__hermes-console.md
+trynhexagon/tide,https://github.com/trynhexagon/tide,Apache-2.0,宽松许可,,reports/trynhexagon__tide.md
+tt-a1i/archify,https://github.com/tt-a1i/archify,MIT,宽松许可,,reports/tt-a1i__archify.md
+tt-a1i/hive,https://github.com/tt-a1i/hive,Apache-2.0（≤0.6.0-alpha.7）→ **BSL-1.1**（2030 转 Apache-2.0）,BSL（商用受限）,**BSL-1.1**：0.6.0-alpha.8 起非宽松许可，商用需评估；基于 README、LICENSE 与目录结构；未运行。,reports/tt-a1i__hive.md
+vorojar/AgentClaw,https://github.com/vorojar/AgentClaw,README 标 MIT（仓库未见 LICENSE 文件，需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/vorojar__AgentClaw.md
+vst93/floter,https://github.com/vst93/floter,GPL-3.0,强 copyleft,,reports/vst93__floter.md
+vst93/ttm,https://github.com/vst93/ttm,MIT,宽松许可,,reports/vst93__ttm.md
+wcq-glhf/prex-quant,https://github.com/wcq-glhf/prex-quant,Apache-2.0,宽松许可,,reports/wcq-glhf__prex-quant.md
+web-infra-dev/midscene,https://github.com/web-infra-dev/midscene,MIT,宽松许可,,reports/web-infra-dev__midscene.md
+weiesky/cc-viewer,https://github.com/weiesky/cc-viewer,MIT,宽松许可,,reports/weiesky__cc-viewer.md
+whiteguo233/OpenBiliClaw,https://github.com/whiteguo233/OpenBiliClaw,MIT,宽松许可,,reports/whiteguo233__OpenBiliClaw.md
+wowyuarm/Loom,https://github.com/wowyuarm/Loom,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/wowyuarm__Loom.md
+xaixapi/xai,https://github.com/xaixapi/xai,未见 LICENSE 文件（需确认）,无许可证/待核对,**无 LICENSE、无代码**（列入本地 backlog）,reports/xaixapi__xai.md
+xfx-studio/claworld-hermes-plugin,https://github.com/xfx-studio/claworld-hermes-plugin,ISC,宽松许可,,reports/xfx-studio__claworld-hermes-plugin.md
+xiaozhenliu/micro-eval,https://github.com/xiaozhenliu/micro-eval,Apache-2.0,宽松许可,,reports/xiaozhenliu__micro-eval.md
+xicilion/boxsh,https://github.com/xicilion/boxsh,GPL-3.0（LICENSE.md 确认）,强 copyleft,基于 README、src/sdk 结构与 LICENSE.md；未运行沙箱。,reports/xicilion__boxsh.md
+xin-yi33/RxyCode,https://github.com/xin-yi33/RxyCode,MIT,宽松许可,,reports/xin-yi33__RxyCode.md
+xlang-ai/OpenCUA,https://github.com/xlang-ai/OpenCUA,MIT,宽松许可,,reports/xlang-ai__OpenCUA.md
+xscanzm/recall,https://github.com/xscanzm/recall,BSL-1.1（LICENSE 确认）,BSL（商用受限）,,reports/xscanzm__recall.md
+xueyufish/hecate,https://github.com/xueyufish/hecate,MIT,宽松许可,,reports/xueyufish__hecate.md
+xuzhougeng/wisp-science,https://github.com/xuzhougeng/wisp-science,AGPL-3.0,强 copyleft,,reports/xuzhougeng__wisp-science.md
+yanhua1010/build-your-own-coding-agent,https://github.com/yanhua1010/build-your-own-coding-agent,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/yanhua1010__build-your-own-coding-agent.md
+yofine/Mexus,https://github.com/yofine/Mexus,Apache-2.0,宽松许可,,reports/yofine__Mexus.md
+yologdev/yoagent,https://github.com/yologdev/yoagent,MIT,宽松许可,,reports/yologdev__yoagent.md
+yologdev/yoyo-evolve,https://github.com/yologdev/yoyo-evolve,MIT,宽松许可,,reports/yologdev__yoyo-evolve.md
+ythx-101/agent-sop,https://github.com/ythx-101/agent-sop,MIT,宽松许可,,reports/ythx-101__agent-sop.md
+yuanchenglu/deepcode,https://github.com/yuanchenglu/deepcode,MIT,宽松许可,,reports/yuanchenglu__deepcode.md
+yuanchenglu/deepseek_runtime,https://github.com/yuanchenglu/deepseek_runtime,Apache-2.0（LICENSE 确认）,宽松许可,,reports/yuanchenglu__deepseek_runtime.md
+yuanchenglu/deepseekagent,https://github.com/yuanchenglu/deepseekagent,MIT + BSL-1.1,BSL（商用受限）,**MIT + BSL-1.1**：商用需确认（列入本地 backlog）,reports/yuanchenglu__deepseekagent.md
+yuanchenglu/llm-harness-agent,https://github.com/yuanchenglu/llm-harness-agent,CC BY-NC-SA 4.0（**非商用**）,非商用,**CC BY-NC-SA 4.0 非商用**（列入本地 backlog）,reports/yuanchenglu__llm-harness-agent.md
+yuanchenglu/oh-my-deepseek-harness,https://github.com/yuanchenglu/oh-my-deepseek-harness,MIT,宽松许可,,reports/yuanchenglu__oh-my-deepseek-harness.md
+yuelangmanle/plankton,https://github.com/yuelangmanle/plankton,Apache-2.0,宽松许可,,reports/yuelangmanle__plankton.md
+zgiai/zgi,https://github.com/zgiai/zgi,ZGI Community License 1.0（自定义社区许可）,自定义/分层,"**快速判断**：如果你要""开箱即用的 Agent Runtime 工作区""，它值得看；**注意自定义许可证**，使用前需读条款。；Go + Next.js 的 Agent Runtime 工作区：agents、workflows、skills、knowledge、model routes 一体化，Docker Compose 部署，社区版开源（自定义许可）。",reports/zgiai__zgi.md
+zhoudongliang-lut/agent-runtime,https://github.com/zhoudongliang-lut/agent-runtime,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/zhoudongliang-lut__agent-runtime.md
+zhuangbiaowei/smart_agent,https://github.com/zhuangbiaowei/smart_agent,MIT,宽松许可,,reports/zhuangbiaowei__smart_agent.md
+zhuangbiaowei/smart_bot,https://github.com/zhuangbiaowei/smart_bot,MIT,宽松许可,,reports/zhuangbiaowei__smart_bot.md
+zhuangbiaowei/smart_brain,https://github.com/zhuangbiaowei/smart_brain,MIT,宽松许可,,reports/zhuangbiaowei__smart_brain.md
+zhuangbiaowei/smart_prompt,https://github.com/zhuangbiaowei/smart_prompt,MIT,宽松许可,,reports/zhuangbiaowei__smart_prompt.md
+zhuangbiaowei/smart_rag,https://github.com/zhuangbiaowei/smart_rag,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/zhuangbiaowei__smart_rag.md
+zhulin025/LaoA-Harness,https://github.com/zhulin025/LaoA-Harness,未见 LICENSE 文件（需确认）,无许可证/待核对,**未见 LICENSE 文件**（列入本地 backlog）,reports/zhulin025__LaoA-Harness.md
+zhuzhaoyun/Molio,https://github.com/zhuzhaoyun/Molio,修改版 Apache-2.0（商用需商业许可）,自定义/分层,**修改版 Apache-2.0**：商用需商业许可（列入本地 backlog）；基于 README、apps/ 与 LICENSE；未运行。,reports/zhuzhaoyun__Molio.md
+zqiren/Orbital,https://github.com/zqiren/Orbital,GPL-3.0,强 copyleft,,reports/zqiren__Orbital.md
